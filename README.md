@@ -51,7 +51,7 @@ Our codebase accesses the datasets from `./data/` and pre-trained models from `.
 
 Our checkpoint for PSGTR is available at:
 
-[Checkpoint](https://drive.google.com/file/d/1EWcqu8HHt2ClufKVUMY_fvrSdJjgln3Y/view?usp=sharing)
+[Checkpoint](https://drive.google.com/file/d/1pmjwkVN5qhYYtLwSVDdF5WKIlLuhWoOC/view?usp=share_link)
 
 
 
